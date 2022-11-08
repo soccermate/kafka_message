@@ -1,0 +1,3 @@
+[2022-10-01 15:28:18,614] INFO [GroupCoordinator 0]: Member consumer-test-1-a7b52c2f-3848-4c38-8e42-7b0fd071fec3 in group test has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2022-10-01 15:28:18,624] INFO [GroupCoordinator 0]: Preparing to rebalance group test in state PreparingRebalance with old generation 16 (__consumer_offsets-48) (reason: removing member consumer-test-1-a7b52c2f-3848-4c38-8e42-7b0fd071fec3 on heartbeat expiration) (kafka.coordinator.group.GroupCoordinator)
+[2022-10-01 15:28:18,626] INFO [GroupCoordinator 0]: Group test with generation 17 is now empty (__consumer_offsets-48) (kafka.coordinator.group.GroupCoordinator)

@@ -1,0 +1,1 @@
+[2022-11-01 23:41:48,180] INFO [BrokerToControllerChannelManager broker=1 name=forwarding] Node 1 disconnected. (org.apache.kafka.clients.NetworkClient)

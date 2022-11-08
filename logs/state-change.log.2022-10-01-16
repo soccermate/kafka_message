@@ -1,0 +1,5 @@
+[2022-10-01 16:51:26,297] INFO [Broker id=1] Handling StopReplica request correlationId 5 from controller 0 for 1 partitions (state.change.logger)
+[2022-10-01 16:51:26,307] INFO [Broker id=1] Ignoring StopReplica request (delete=false) from controller 0 with correlation id 5 epoch 1 for partition user_created-0 since its associated leader epoch 0 matches the current leader epoch (state.change.logger)
+[2022-10-01 16:51:26,410] INFO [Broker id=1] Add 1 partitions and deleted 0 partitions from metadata cache in response to UpdateMetadata request sent by controller 0 epoch 1 with correlation id 6 (state.change.logger)
+[2022-10-01 16:51:26,419] INFO [Broker id=1] Handling StopReplica request correlationId 7 from controller 0 for 1 partitions (state.change.logger)
+[2022-10-01 16:51:26,420] INFO [Broker id=1] Ignoring StopReplica request (delete=false) from controller 0 with correlation id 7 epoch 1 for partition user_created-0 since its associated leader epoch 0 matches the current leader epoch (state.change.logger)

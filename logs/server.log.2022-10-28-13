@@ -1,0 +1,4 @@
+[2022-10-28 13:43:39,821] INFO [GroupCoordinator 1]: Member consumer-test-user-1-2ce3839d-666c-4f18-bb9e-b2865dde86ef in group test-user has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2022-10-28 13:43:39,835] INFO [GroupCoordinator 1]: Preparing to rebalance group test-user in state PreparingRebalance with old generation 1 (__consumer_offsets-22) (reason: removing member consumer-test-user-1-2ce3839d-666c-4f18-bb9e-b2865dde86ef on heartbeat expiration) (kafka.coordinator.group.GroupCoordinator)
+[2022-10-28 13:43:39,838] INFO [GroupCoordinator 1]: Group test-user with generation 2 is now empty (__consumer_offsets-22) (kafka.coordinator.group.GroupCoordinator)
+[2022-10-28 13:51:22,211] INFO [GroupMetadataManager brokerId=1] Group test-user transitioned to Dead in generation 2 (kafka.coordinator.group.GroupMetadataManager)

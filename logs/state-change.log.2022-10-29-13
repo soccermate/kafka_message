@@ -1,0 +1,2 @@
+[2022-10-29 15:50:23,421] INFO [Controller id=1 epoch=1] Sending UpdateMetadata request to brokers Set() for 0 partitions (state.change.logger)
+[2022-10-29 15:50:23,443] INFO [Controller id=1 epoch=1] Sending StopReplica request for 2 replicas to broker 0 (state.change.logger)

@@ -1,0 +1,2 @@
+[2022-10-12 15:00:54,811] INFO [ControllerEventThread controllerId=1] Starting (kafka.controller.ControllerEventManager$ControllerEventThread)
+[2022-10-12 15:00:54,863] DEBUG [Controller id=1] Broker 0 has been elected as the controller, so stopping the election process. (kafka.controller.KafkaController)

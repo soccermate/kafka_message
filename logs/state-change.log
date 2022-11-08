@@ -1,0 +1,5 @@
+[2022-11-07 18:57:27,151] INFO [Controller id=1 epoch=1] Sending UpdateMetadata request to brokers Set() for 0 partitions (state.change.logger)
+[2022-11-07 18:57:27,177] INFO [Controller id=1 epoch=1] Sending StopReplica request for 2 replicas to broker 1 (state.change.logger)
+[2022-11-07 18:57:27,372] INFO [Broker id=1] Handling StopReplica request correlationId 5 from controller 1 for 2 partitions (state.change.logger)
+[2022-11-07 18:57:27,436] INFO [Broker id=1] Ignoring StopReplica request (delete=false) from controller 1 with correlation id 5 epoch 1 for partition point_earned-0 since its associated leader epoch 0 matches the current leader epoch (state.change.logger)
+[2022-11-07 18:57:27,436] INFO [Broker id=1] Ignoring StopReplica request (delete=false) from controller 1 with correlation id 5 epoch 1 for partition user_created-0 since its associated leader epoch 0 matches the current leader epoch (state.change.logger)
